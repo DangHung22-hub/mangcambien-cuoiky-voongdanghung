@@ -84,7 +84,7 @@ Mô hình sử dụng FOMO MobileNetV2 0.35 và được tối ưu để chạy 
 
 \* IC: 1.00%
 
-\* Resistor: F1 = 0,95%
+\* Resistor: F1 = 0.95% / 0.85%
 
 
 
