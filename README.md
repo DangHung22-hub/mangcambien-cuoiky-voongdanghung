@@ -26,11 +26,11 @@
 
 
 
-\* BH1750
+\* Led
 
 \* Capacitor
 
-\* PIR
+\* IC
 
 \* Resistor
 
@@ -50,7 +50,7 @@ Mô hình sử dụng FOMO MobileNetV2 0.35 và được tối ưu để chạy 
 
 | Kích thước ảnh    | 96 × 96 pixel         |
 
-| Color depth       | Grayscale             |
+| Color depth       | RGB                   |
 
 | Processing block  | Image                 |
 
@@ -76,15 +76,15 @@ Mô hình sử dụng FOMO MobileNetV2 0.35 và được tối ưu để chạy 
 
 
 
-\* F1-score tổng: 86,2%
+\* F1-score tổng: 92.5%
 
-\* BH1750: F1 = 1,00
+\* Led: 0.95%
 
-\* Capacitor: F1 = 1,00
+\* Capacitor: F1 = 0.93%
 
-\* PIR: F1 = 0,88
+\* IC: 1.00%
 
-\* Resistor: F1 = 0,70
+\* Resistor: F1 = 0,95%
 
 
 
@@ -176,7 +176,7 @@ Link video demo:
 
 ```text
 
-DÁN LINK GOOGLE DRIVE HOẶC YOUTUBE TẠI ĐÂY
+(https://drive.google.com/drive/folders/1RKZGpLxtj3S45DSI1tVz7UyX5-IT29k4?usp=sharing)
 
 ```
 
