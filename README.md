@@ -6,7 +6,7 @@
 
 
 
-\* Họ và tên: Voong Đăng Hùng
+\* Họ và tên: Vòong Đăng Hưng
 
 \* MSSV: N23DCCI030
 
