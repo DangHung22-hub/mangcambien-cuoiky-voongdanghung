@@ -182,7 +182,14 @@ https://drive.google.com/drive/folders/1RKZGpLxtj3S45DSI1tVz7UyX5-IT29k4?usp=sha
 
 
 
-\## 10. Ghi chú
+\## 10. Link EDGE IMPULSE
+
+```text
+
+https://studio.edgeimpulse.com/public/1022373/live
+
+```
+
 
 
 
