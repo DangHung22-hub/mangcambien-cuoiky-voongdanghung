@@ -176,7 +176,7 @@ Link video demo:
 
 ```text
 
-(https://drive.google.com/drive/folders/1RKZGpLxtj3S45DSI1tVz7UyX5-IT29k4?usp=sharing)
+https://drive.google.com/drive/folders/1RKZGpLxtj3S45DSI1tVz7UyX5-IT29k4?usp=sharing
 
 ```
 
